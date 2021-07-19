@@ -1,0 +1,4 @@
+name: domain-tracker
+author: Gleeming
+version: 1.0-SNAPSHOT
+main: me.gleeming.tracker.DomainTracker
