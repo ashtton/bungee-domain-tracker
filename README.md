@@ -1,5 +1,5 @@
 # Bungee Domain Tracker
-This is a bungeecord plugin that tracks what domains players are using, it only counts unique logins to certain domains, and you can also view what domain players are currently using.\
+This is a bungeecord plugin that tracks what domains players are using, it only counts unique logins to certain domains, and you can also view what domain players are currently using.
 
 ### Commands
 ```
